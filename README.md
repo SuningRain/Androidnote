@@ -1,1 +1,3 @@
-### TabHost相当于浏览器中浏览器分布的集合，而Tabspec则相当于浏览器中的每一个分页面。d在Android中，每一个TabSpec分布可以是一个组件，也可以是一个布局，然后将每一个分页装入TabHost中，TabHost即可将其中的每一个分页一并显示出来。
+#高仿网易云音乐源码分析
+##1.问题
+###2.tools:context=".MainActivity"的作用
